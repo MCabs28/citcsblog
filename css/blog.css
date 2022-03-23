@@ -559,6 +559,7 @@ padding: 10px 0px;
 justify-content: center;
 align-items: center;
 flex-direction: column;
+margin-top: 100px;
 }
 
 
@@ -583,6 +584,7 @@ margin-left: auto;
 
 
 .pic-opening{
+	margin-top: 100px;
 	grid-area: pic-opening;
 }
 
@@ -613,6 +615,7 @@ margin-right: auto;
 justify-content: center;
 align-items: center;
 flex-direction: column;
+margin-top: 100px;
 }
 
 
@@ -638,6 +641,7 @@ margin-left: auto;
 
 .pic-night{
 	grid-area: pic-night;
+	margin-top: 100px;
 }
 
 .pic-night h2{
